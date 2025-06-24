@@ -70,8 +70,8 @@ An End-to-End HR Analytics Project
 
 ## 🛠️ Tools & Technologies
 
-* **Project Planning**: Notion, Google Docs
-* **Data Extraction**: SQL (MySQL/PostgreSQL)
+* **Project Planning**: Google Docs
+* **Data Extraction**: SQL (MySQL)
 * **Data Analysis**: Microsoft Excel
 * **Data Visualization**: Tableau
 
@@ -84,12 +84,5 @@ To build a **data-driven, interactive HR dashboard** that can assist organizatio
 * Identifying key attrition trends
 * Understanding employee satisfaction
 * Driving retention-focused decisions
-
----
-
-## 👨‍💻 Author
-
-**Rahul Singh**
-For inquiries or collaboration: *\[your email or LinkedIn]*
 
 ---
