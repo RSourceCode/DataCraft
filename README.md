@@ -1,10 +1,10 @@
-# DatCraft 🚀
+# DataCraft 🚀
 
 An End-to-End HR Analytics Project
 
 ## 📌 Project Overview
 
-**DatCraft** is a structured data analytics project that takes you through the journey of mastering essential data skills, culminating in the creation of an interactive **HR Analytics Dashboard**. The project is broken down into four learning and implementation phases designed to simulate real-world data workflows and project management.
+**DataCraft** is a structured data analytics project that takes you through the journey of mastering essential data skills, culminating in the creation of an interactive **HR Analytics Dashboard**. The project is broken down into four learning and implementation phases designed to simulate real-world data workflows and project management.
 
 
 ## 🧩 Project Phases
